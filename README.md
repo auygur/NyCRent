@@ -9,7 +9,11 @@ Assumptions: 1) Only used features that apply to pricing an apartment that is no
 ## Data 
 The raw data can be downloaded from : https://www.census.gov/housing/nychvs/data/2014/userinfo2.html
 A parsed version is uploaded to figshare: https://ndownloader.figshare.com/files/7586326
- 
+
+## Files
+- main_rent.py includes all the codes for cleaning the data and models.
+- test_score.py includes the code for testing the r^2 using various enviroments on travis
+- .travis.yml and requirements-travis.txt are the necessary files for testing py file on travis website.
  
  
 
