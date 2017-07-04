@@ -8,6 +8,7 @@ Assumptions: 1) Only used features that apply to pricing an apartment that is no
 
 ## Data 
 The raw data can be downloaded from : https://www.census.gov/housing/nychvs/data/2014/userinfo2.html
+
 A parsed version is uploaded to figshare: https://ndownloader.figshare.com/files/7586326
 
 ## Files
